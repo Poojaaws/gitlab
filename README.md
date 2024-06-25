@@ -2,3 +2,5 @@
 Practice
 emoji
 type option
+colors
+vibrant
